@@ -1,0 +1,45 @@
+
+
+body{
+    background-color: #FFABAB;
+}
+
+
+img{
+    height: 200px;
+    width:200px;
+    border-radius: 5%;
+}
+
+h1{
+    text-align: center;
+    font-family: 'Lugrasimo', cursive;
+    font-weight: bold;
+    font-size:60px;
+}
+
+h2{
+    font-family: 'Lugrasimo', cursive;
+}
+
+.dice{
+    display:inline-block;
+    text-align: center;
+    
+    
+}
+.dice1{
+    margin-left: 530px;
+}
+
+.dice2{
+    margin-left:50px;
+}
+
+.parent{
+    margin-top:50px;
+}
+
+.container{
+    margin-top: 100px;
+}
